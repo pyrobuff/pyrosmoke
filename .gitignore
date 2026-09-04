@@ -1,0 +1,35 @@
+# Build and package output
+bin/
+obj/
+release/
+publish/
+artifacts/
+*.nupkg
+*.snupkg
+
+# Local dependency/cache directories
+.packages/
+.dotnet/
+.cli-home/
+.t3menu-source/
+.dotnet-install.ps1
+
+# IDE and editor state
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+
+# Runtime-generated plugin data and logs
+Data/
+logs/
+*.log
+
+# Temporary and operating-system files
+*.tmp
+*.temp
+*.bak
+*~
+.DS_Store
+Thumbs.db

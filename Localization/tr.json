@@ -1,0 +1,13 @@
+{
+  "menu.title": "PYRO | Smoke Rengi",
+  "menu.team": "Takım Rengi",
+  "menu.random": "Rastgele",
+  "menu.unavailable": "{DEFAULT}[ {GREEN}PYRO Smoke {DEFAULT}] {GREEN}T3Menu-API {DEFAULT}bulunamadığı için {GREEN}smoke menüsü {DEFAULT}açılamıyor.",
+  "plugin.disabled": "{DEFAULT}[ {GREEN}PYRO Smoke {DEFAULT}] {RED}Plugin şu anda devre dışı.",
+  "color.team": "{DEFAULT}[ {GREEN}PYRO Smoke {DEFAULT}] Smoke renginiz {GREEN}takım rengine {DEFAULT}sıfırlandı.",
+  "color.random": "{DEFAULT}[ {GREEN}PYRO Smoke {DEFAULT}] Her smoke için {GREEN}rastgele renk {DEFAULT}seçilecek.",
+  "color.changed": "{DEFAULT}[ {GREEN}PYRO Smoke {DEFAULT}] Smoke renginiz {GREEN}{0} {DEFAULT}olarak değiştirildi.",
+  "access.denied": "{DEFAULT}[ {GREEN}PYRO Smoke {DEFAULT}] {RED}Bu smoke rengini kullanmak için gerekli yetkiye sahip değilsiniz.",
+  "override.locked": "{DEFAULT}[ {GREEN}PYRO Smoke {DEFAULT}] {RED}Smoke renginiz sunucu tarafından kilitlenmiştir.",
+  "save.failed": "{DEFAULT}[ {GREEN}PYRO Smoke {DEFAULT}] {RED}Tercihiniz diske kaydedilemedi; lütfen yöneticiye bildirin."
+}

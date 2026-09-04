@@ -1,0 +1,13 @@
+{
+  "menu.title": "PYRO | Smoke Color",
+  "menu.team": "Team Color",
+  "menu.random": "Random",
+  "menu.unavailable": "{DEFAULT}[ {GREEN}PYRO Smoke {DEFAULT}] {GREEN}T3Menu-API {DEFAULT}is unavailable, so the {GREEN}smoke menu {DEFAULT}cannot be opened.",
+  "plugin.disabled": "{DEFAULT}[ {GREEN}PYRO Smoke {DEFAULT}] {RED}The plugin is currently disabled.",
+  "color.team": "{DEFAULT}[ {GREEN}PYRO Smoke {DEFAULT}] Your smoke color has been reset to the {GREEN}team color{DEFAULT}.",
+  "color.random": "{DEFAULT}[ {GREEN}PYRO Smoke {DEFAULT}] A {GREEN}random color {DEFAULT}will be selected for each smoke.",
+  "color.changed": "{DEFAULT}[ {GREEN}PYRO Smoke {DEFAULT}] Your smoke color has been changed to {GREEN}{0}{DEFAULT}.",
+  "access.denied": "{DEFAULT}[ {GREEN}PYRO Smoke {DEFAULT}] {RED}You do not have the required permission to use this smoke color.",
+  "override.locked": "{DEFAULT}[ {GREEN}PYRO Smoke {DEFAULT}] {RED}Your smoke color has been locked by the server.",
+  "save.failed": "{DEFAULT}[ {GREEN}PYRO Smoke {DEFAULT}] {RED}Your preference could not be saved. Please notify an administrator."
+}
